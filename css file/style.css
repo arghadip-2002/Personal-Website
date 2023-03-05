@@ -1,0 +1,270 @@
+body{
+    background-color: white;
+    text-align: center;
+    margin: 0;
+}
+
+.hills{
+    width: 70%;
+    position: absolute;
+    right: 200px;
+    top: 200px;
+}
+
+.bottom_cloud{
+    width: 10%;
+    position: absolute;
+    left: 285px;
+    top: 200px;
+}
+
+.top_cloud{
+    width: 8%;
+    position: absolute;
+    right: 300px;
+}
+
+h1{
+    position: absolute;
+    left: 510px;
+    top: 150px;
+    font-family: 'Sacramento', cursive;
+    font-size: 380%;
+    color: #66BFBF;
+    line-height: 1.5;
+}
+
+h5{
+    position: absolute;
+    top: 220px;
+    left: 570px;
+    font-family: 'Labrada', serif;
+    font-size: 30px;
+    color:  #1AA260;
+    font-weight: normal;
+}
+
+.top-container{
+    height: 565px ;
+    background-color:#EAF6F6;
+    padding: 100px 0 0 0 ;
+}
+
+.middle-container{
+    position: relative;
+}
+
+.container{
+    position: relative;
+    bottom: 130px;
+    right: 26px;
+}
+
+h3{
+    color: #11999E;
+}
+
+h2{
+    color: #66BFBF;
+    font-family: 'Shantell Sans', cursive;
+    font-weight: 800;
+    font-size: 60px;
+}
+
+.skill-row-1{
+    width: 1000px;
+    height: 200px;
+    margin: 100px auto 10px 20px;
+    line-height: 2;
+    position: relative;
+    bottom: 100px;
+}
+
+.skill-row-2{
+    width: 1000px;
+    height: 250px;
+    margin: 110px 20px 100px auto;
+    line-height: 2;
+    position: relative;
+    bottom: 180px;
+}
+
+.skill-1{
+    width: 30%;
+    float: left;
+    margin: 30px;
+    position: relative;
+    bottom: 70px;
+}
+
+.arrow{
+    width: 10%;
+    position: relative;
+    right: 200px;
+    bottom: 120px;
+}
+
+.skill-2{
+    width: 40%;
+    float: right;
+    margin: 30px;
+    padding: 5px;
+    border: solid 2px;
+    position: relative;
+    bottom: 30px;
+}
+
+.gamer{
+    text-align: right;
+    font-size: 25px;
+}
+
+.pgamer{
+    text-align: right;
+    position: relative;
+    bottom: 35px;
+}
+
+.psdcc{
+    text-align: left;
+    position: relative;
+    bottom: 35px;
+}
+
+.sdcc{
+    text-align: left;
+    font-size: 25px;
+}
+
+.profile{
+    position: relative;
+    bottom: 70px;
+}
+
+.hello{
+    font-size: 65px;
+    position: relative;
+    bottom: 50px;
+    margin: 50 auto 0 auto;
+}
+
+.myskill{
+    position: relative;
+    top: 80px;
+    font-size: 80px;
+}
+
+.emoji{
+    width: 25%;
+}
+
+.skills{
+    position: relative;
+    bottom: 200px;
+}
+
+.secondlast{
+    position: relative;
+    bottom: 300px;
+}
+
+.introduction{
+    width: 750px;
+    margin: 0 auto 0 auto;
+    position: relative;
+    bottom: 90px;
+    font-size: 22.5px;
+    text-align: center;
+}
+
+.line{
+    position: relative;
+    bottom: 100px;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    text-shadow: 2px 1px 5px #120312;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 30px;
+    padding: 5px 5px 5px 5px;
+    text-decoration: none;
+    position: relative;
+    bottom: 50px;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+  p{
+    line-height: 2;
+  }
+
+.pcontact{
+    width: 50%;
+    margin: auto;
+    position: relative;
+    bottom: 70px;
+}
+
+.vive{
+    position: relative;
+    bottom: 50px;
+    font-size: 25px;
+    font-weight: 200;
+}
+
+hr{
+    border: dotted 6px;
+    border-bottom: none;
+    color: #637674;
+    width: 35%;
+    margin: 100px auto;
+
+    text-align: center;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding-top: 20px;
+}
+
+.contact-me{
+    position: relative;
+    top: 100px;
+}
+
+a{
+    color: #CEF0ED;
+    text-decoration: none;
+    margin: 10px 20px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Shantell Sans', cursive;
+}
+
+a:hover{
+    color: yellow;
+}
+
+.copy-right{
+    color: #E9F315;
+    padding-top: 50px;
+    margin: 0;
+}
